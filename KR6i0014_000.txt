@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘大方廣佛冠經
+#+DATE: 2015-08-30 20:07:40.140583
+#+PROPERTY: JUAN 0
