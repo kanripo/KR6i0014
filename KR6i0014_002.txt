@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:39.944516
+#+DATE: 2015-08-30 20:07:40.616361
 #+TITLE: 佛說大乘大方廣佛冠經
 #+PROPERTY: CBETA_ID T14n0438
 #+PROPERTY: ID KR6i0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 438
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0014_T_000-0110a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0014_T_002-0111b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說大乘大方廣佛冠經》卷下¶
+《佛說大乘大方廣佛冠經》卷下¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿傳梵¶
 大師賜紫沙門臣法護等奉　詔譯¶
@@ -175,7 +174,7 @@
 　彼諸佛名得聞已，
 　當為他人廣宣說。¶
 　欲令俱胝眾生類，
-　出離二有得解脫，¶
+　出離三有得解脫，¶
 　彼諸佛名得聞已，
 　受持不復生人間。¶
 　欲令俱胝諸佛剎，
