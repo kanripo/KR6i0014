@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:39.921917
+#+DATE: 2015-08-30 20:07:40.386310
 #+TITLE: 佛說大乘大方廣佛冠經
 #+PROPERTY: CBETA_ID T14n0438
 #+PROPERTY: ID KR6i0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 438
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0014_T_000-0110a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0014_T_001-0110a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.438¶
-
- 《佛說大乘大方廣佛冠經》卷上¶
+No. 438¶
+《佛說大乘大方廣佛冠經》卷上¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿傳梵¶
 大師賜紫沙門臣法護等奉　詔譯¶
