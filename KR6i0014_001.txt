@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:41.008957
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:25
 #+TITLE: 佛說大乘大方廣佛冠經
 #+PROPERTY: CBETA_ID T14n0438
 #+PROPERTY: ID KR6i0014
